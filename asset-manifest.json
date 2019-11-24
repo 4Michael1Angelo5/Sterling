@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sterling/static/css/main.f9b4d36c.chunk.css",
+    "main.js": "/sterling/static/js/main.8c3b73d8.chunk.js",
+    "main.js.map": "/sterling/static/js/main.8c3b73d8.chunk.js.map",
+    "runtime~main.js": "/sterling/static/js/runtime~main.d7f25a92.js",
+    "runtime~main.js.map": "/sterling/static/js/runtime~main.d7f25a92.js.map",
+    "static/css/2.45485061.chunk.css": "/sterling/static/css/2.45485061.chunk.css",
+    "static/js/2.1617878f.chunk.js": "/sterling/static/js/2.1617878f.chunk.js",
+    "static/js/2.1617878f.chunk.js.map": "/sterling/static/js/2.1617878f.chunk.js.map",
+    "index.html": "/sterling/index.html",
+    "precache-manifest.d6c872631711f75a7f5e5d84ee1f9ca0.js": "/sterling/precache-manifest.d6c872631711f75a7f5e5d84ee1f9ca0.js",
+    "service-worker.js": "/sterling/service-worker.js",
+    "static/css/2.45485061.chunk.css.map": "/sterling/static/css/2.45485061.chunk.css.map",
+    "static/css/main.f9b4d36c.chunk.css.map": "/sterling/static/css/main.f9b4d36c.chunk.css.map",
+    "static/media/App.css": "/sterling/static/media/TitilliumWeb-Regular.ed1d014b.ttf",
+    "static/media/chair.png": "/sterling/static/media/chair.4d82827b.png",
+    "static/media/compass.png": "/sterling/static/media/compass.31a1c94a.png",
+    "static/media/conversation.png": "/sterling/static/media/conversation.20555920.png",
+    "static/media/deal.png": "/sterling/static/media/deal.ace149c1.png",
+    "static/media/shopping-cart.png": "/sterling/static/media/shopping-cart.e9656904.png",
+    "static/media/tree.png": "/sterling/static/media/tree.e15c5526.png"
+  }
+}
